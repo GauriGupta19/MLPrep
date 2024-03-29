@@ -27,6 +27,7 @@ ML coding module may or may not exist in particular companies interviews. The go
   - Kl div / softmax / cross entropy ([code](./notebooks/kldivergence_softmax_crossentropy.ipynb))
   - Activations ([code](./notebooks/activations.ipynb))
   - Weight Initialization ([code](./notebooks/w_init.ipynb))
+  - Transformer ([code](./notebooks/transformer.ipynb))
 
 ##  Sampling
   - stratified sampling ([link](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c))
