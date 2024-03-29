@@ -23,8 +23,14 @@ ML coding module may or may not exist in particular companies interviews. The go
   - FeedForward NN ([code](./notebooks/feedforward.ipynb))
   <!-- [code 1](https://github.com/alirezadir/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
   <!-- [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py)) -->
-  - Softmax ([code](./notebooks/softmax.ipynb))
   - Convolution ([code](./notebooks/convolution.ipynb))
+  - Attention ([code](./notebooks/attention.ipynb))
+  - Batch norm ([code](./notebooks/batchnorm.ipynb))
+  - Unet ([code](./notebooks/unet.ipynb))
+  - Dropout ([code](./notebooks/dropout.ipynb))
+  - Optmizers ([code](./notebooks/optimizers.ipynb))
+  - Kl div / softmax / cross entropy ([code](./notebooks/kldivergence_softmax_crossentropy.ipynb))
+  - Activations ([code](./notebooks/activations.ipynb))
   - CNN 
   - RNN 
 
