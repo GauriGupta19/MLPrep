@@ -3,6 +3,10 @@
 # <a name="ml-coding"></a> 2. ML/Data Coding :robot:
 ML coding module may or may not exist in particular companies interviews. The good news is that, there are only a limited number of ML algorithms that candidates are expected to be able to code. The most common ones include:
 
+Another coding resource ([code](https://github.com/dakshitagrawal/ML_Interview_Algos)) - includes conv, kmeans, rotate image, pca, linear and logistic regression
+
+Really good resource for Deep learning concepts ([link] (https://github.com/vlgiitr/DL_Topics))
+
 ## ML Algorithms 
 - Linear regression ([code](./notebooks/linear_regression.ipynb))
 - Logistic regression ([code](./notebooks/logistic_regression.ipynb))
