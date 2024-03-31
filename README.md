@@ -5,7 +5,7 @@ ML coding module may or may not exist in particular companies interviews. The go
 
 Another coding resource ([code](https://github.com/dakshitagrawal/ML_Interview_Algos)) - includes conv, kmeans, rotate image, pca, linear and logistic regression
 
-Really good resource for Deep learning concepts ([link] (https://github.com/vlgiitr/DL_Topics))
+Really good resource for Deep learning concepts ([link](https://github.com/vlgiitr/DL_Topics))
 
 ## ML Algorithms 
 - Linear regression ([code](./notebooks/linear_regression.ipynb))
