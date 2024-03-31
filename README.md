@@ -28,7 +28,7 @@ Really good resource for Deep learning concepts ([link](https://github.com/vlgii
   - Unet ([code](./notebooks/unet.ipynb))
   - Dropout ([code](./notebooks/dropout.ipynb))
   - Optmizers ([code](./notebooks/optimizers.ipynb))
-  - Kl div / softmax / cross entropy ([code](./notebooks/kldivergence_softmax_crossentropy.ipynb))
+  - Kl div / softmax / cross entropy ([code](./notebooks/losses.ipynb))
   - Activations ([code](./notebooks/activations.ipynb))
   - Weight Initialization ([code](./notebooks/w_init.ipynb))
   - Transformer ([code](./notebooks/transformer.ipynb))
