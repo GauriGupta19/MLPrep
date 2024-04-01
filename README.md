@@ -31,7 +31,7 @@ Really good resource for Deep learning concepts ([link](https://github.com/vlgii
   - Losses (KL, CE, BCE, Focal) ([code](./notebooks/losses.ipynb))
   - Activations ([code](./notebooks/activations.ipynb))
   - Weight Initialization ([code](./notebooks/w_init.ipynb))
-  - Transformer ([code](./notebooks/transformer.ipynb))
+  - Transformer ([google notebook](./notebooks/transformer.ipynb), [architecture & training code](https://nlp.seas.harvard.edu/annotated-transformer/))
 
 ##  Sampling
   - stratified sampling ([link](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c))
