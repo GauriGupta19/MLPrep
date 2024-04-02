@@ -23,7 +23,7 @@ Really good resource for Deep learning concepts ([link](https://github.com/vlgii
   <!-- [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py)) -->
   - Perceptron ([code](./notebooks/perceptron.ipynb)) 
   - Convolution ([code](./notebooks/convolution.ipynb))
-  - Attention ([code](./notebooks/attention.ipynb))
+  - Attention (self, multi-head, temporal) ([code](./notebooks/attention.ipynb))
   - Batch norm ([code](./notebooks/batchnorm.ipynb))
   - Unet ([code](./notebooks/unet.ipynb))
   - Dropout ([code](./notebooks/dropout.ipynb))
