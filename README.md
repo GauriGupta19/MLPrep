@@ -34,6 +34,8 @@ Really good resource for Deep learning concepts ([link](https://github.com/vlgii
   - Transformer ([google notebook](./notebooks/transformer.ipynb), [architecture & training code](https://nlp.seas.harvard.edu/annotated-transformer/))
   - Vision Transformer ([code](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial15/Vision_Transformer.html))
   - Positional Encoding ([code](./notebooks/positional_encoding.ipynb))
+  - Rotate Image ([code](./notebooks/rotate_img.ipynb))
+  - PCA ([code](./notebooks/pca.ipynb))
 
 ##  Sampling
   - stratified sampling ([link](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c))
