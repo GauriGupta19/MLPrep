@@ -22,7 +22,7 @@ Really good resource for Deep learning concepts ([link](https://github.com/vlgii
   <!-- [code 1](https://github.com/alirezadir/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
   <!-- [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py)) -->
   - Perceptron ([code](./notebooks/perceptron.ipynb)) 
-  - Convolution ([code](./notebooks/convolution.ipynb))
+  - Convolution (1D, 2D, 3D, Patchify) ([code](./notebooks/convolution.ipynb))
   - Attention (self, multi-head, temporal) ([code](./notebooks/attention.ipynb))
   - Batch norm ([code](./notebooks/batchnorm.ipynb))
   - Unet ([code](./notebooks/unet.ipynb))
